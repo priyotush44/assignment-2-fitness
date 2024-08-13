@@ -79,6 +79,7 @@ h2{
 .header{
     width: 1440px;
     height: 715px;
+    margin: 0 auto;
     background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
 }
 
@@ -436,6 +437,7 @@ img{
 
 .habits{
     width: 1440px;
+      margin: 0 auto;
 }
 .habit{
     width: 1060px;
